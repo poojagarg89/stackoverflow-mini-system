@@ -1,0 +1,58 @@
+.question-header-main {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  align-items: baseline;
+  .stackoverflow-logo {
+    width: 200px;
+    height: 38px;
+    cursor: pointer;
+  }
+  .login-btn-section {
+    display: flex;
+    gap: 10px;
+
+    .login-btn {
+      background: hsl(205, 46%, 92%);
+      color: hsl(205, 47%, 42%);
+    }
+    .login-btn:hover {
+      background: hsl(205, 57%, 81%);
+      color: hsl(205, 46%, 32%);
+    }
+    .signup-btn {
+      background: hsl(209, 100%, 37.5%);
+      color: #ffffff;
+    }
+    .signup-btn:hover {
+      background: hsl(206, 100%, 40%);
+      color: #fff;
+    }
+    .login-btn,
+    .signup-btn {
+      box-shadow: inset 0 1px 0 0 hsla(0, 0%, 100%, 0.4);
+      border-radius: 3px;
+      border: 1px solid transparent;
+      padding: 6px 12px;
+      cursor: pointer;
+    }
+  }
+  .user-details {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    .user-text {
+      margin: 0;
+    }
+    .logout-btn {
+      padding: 5px 10px;
+      box-shadow: inset 0 1px 0 0 hsla(0, 0%, 100%, 0.4);
+      border-radius: 3px;
+      border: 1px solid transparent;
+      padding: 6px 12px;
+      cursor: pointer;
+      background: hsl(205, 46%, 92%);
+      color: hsl(205, 47%, 42%);
+    }
+  }
+}

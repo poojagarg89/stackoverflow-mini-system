@@ -1,0 +1,42 @@
+[
+  {
+    "answers": 0,
+    "description": "<p><span style=\"color: rgb(35,38,41);background-color: rgb(255,255,255);font-size: 15px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI Adjusted\", \"Segoe UI\", \"Liberation Sans\", sans-serif;\">Any insight into why my local</span> <code>detect-secrets scan</code> <span style=\"color: rgb(35,38,41);background-color: rgb(255,255,255);font-size: 15px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI Adjusted\", \"Segoe UI\", \"Liberation Sans\", sans-serif;\">command is finding a secret, but the review doc action isn't picking it up?</span>&nbsp;</p>\n",
+    "id": "6ec46ec1-9dfd-42d1-876e-314e97b9742e",
+    "title": "detect-secrets and reviewdog actionnot syncing up",
+    "views": 0,
+    "votes": 1
+  },
+  {
+    "answers": 0,
+    "description": "<p style=\"text-align:left;\"><span style=\"color: rgb(35,38,41);background-color: rgb(255,255,255);font-size: 15px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI Adjusted\", \"Segoe UI\", \"Liberation Sans\", sans-serif;\">in react native , I am building a students app and when the students use it they need to insert a code or token to unlock the content of it how I can do that , notice the code will be printed on cards and the people who want it can buy it from teacher for example .</span></p>\n<p style=\"text-align:left;\"><span style=\"color: rgb(35,38,41);background-color: rgb(255,255,255);font-size: 15px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI Adjusted\", \"Segoe UI\", \"Liberation Sans\", sans-serif;\">I need a way to generate token or some libraries that can do the thing just I need a token and validate it in the app to open the content for that person and then the token will be only used once and the app will open forever .</span>&nbsp;</p>\n",
+    "id": "6e2fe13f-df74-43be-9e97-cba2b348fcd6",
+    "title": "is there any way to generate tokens",
+    "views": 0,
+    "votes": 2
+  },
+  {
+    "answers": 0,
+    "description": "<p style=\"text-align:left;\"><span style=\"color: rgb(35,38,41);background-color: rgb(255,255,255);font-size: 15px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI Adjusted\", \"Segoe UI\", \"Liberation Sans\", sans-serif;\">I am developing an online store website on WordPress. I am using the \"simla\" plugin for WooCommerce. This plugin generates an ICML catalog. I want to make sure that the barcode of the product gets into this file as a standard property. I contacted the support of this plugin and they told me that in order to do this, I need to make changes to the plugin code: “In order to transfer the barcode from the site as a standard product property, you will need to make changes to the catalog generation code.” . Could you suggest me how to do this?</span></p>\n<p style=\"text-align:left;\"><span style=\"color: rgb(35,38,41);background-color: rgb(255,255,255);font-size: 15px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI Adjusted\", \"Segoe UI\", \"Liberation Sans\", sans-serif;\">I read the documentation, but no luck.</span>&nbsp;</p>\n",
+    "id": "f375d725-c79a-472e-b7db-c0a7af5d8517",
+    "title": "How to transfer a barcode from the site, as a standard product property, in the WooCommerce plugin?",
+    "views": 0,
+    "votes": 0
+  },
+  {
+    "answers": 0,
+    "description": "<p style=\"text-align:left;\"><span style=\"color: rgb(35,38,41);background-color: rgb(255,255,255);font-size: 15px;font-family: inherit;\">I have a text composed of text fragments delimited by \"[1]\" tags. I would like to use regular expressions to select (and eventually delete) those delimited fragments that do not contain asterisks.</span>&nbsp;</p>\n",
+    "id": "f30549b0-64c6-4723-bc58-9deff3df73f0",
+    "title": "How to capture a multi-line regex between two tags based on a match condition?",
+    "views": 0,
+    "votes": 0
+  },
+  {
+    "answers": 0,
+    "description": "<p style=\"text-align:left;\"><span style=\"color: rgb(35,38,41);background-color: rgb(255,255,255);font-size: 15px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI Adjusted\", \"Segoe UI\", \"Liberation Sans\", sans-serif;\">I am trying to</span> <a href=\"https://baljindersingh013.medium.com/angular-app-deployment-with-aws-s3-42d9008734ab\" target=\"_self\"><span style=\"color: var(--theme-link-color);background-color: rgb(255,255,255);font-size: 15px;font-family: inherit;\"><ins>host a static Angular site on AWS S3</ins></span></a><span style=\"color: rgb(35,38,41);background-color: rgb(255,255,255);font-size: 15px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI Adjusted\", \"Segoe UI\", \"Liberation Sans\", sans-serif;\">, but I am encountering a CORS policy issue. When I try to view the index.html file after running ng build, I get the following error:</span></p>\n<p style=\"text-align:left;\"><span style=\"color: rgb(35,38,41);background-color: rgb(255,255,255);font-size: 15px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI Adjusted\", \"Segoe UI\", \"Liberation Sans\", sans-serif;\"><code>Access to script at '.../dist/testapp/runtime-es2015.js' from origin 'null' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, isolated-app, chrome-extension, chrome-untrusted, https, edge.</code></span></p>\n<p style=\"text-align:left;\"><span style=\"color: rgb(35,38,41);background-color: rgb(255,255,255);font-size: 15px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI Adjusted\", \"Segoe UI\", \"Liberation Sans\", sans-serif;\">I am not finding much documentation on how this works in the first place, as Angular generally needs a server to run on. Can someone help me understand how to resolve this CORS policy issue and host a static Angular site on AWS S3?</span>&nbsp;</p>\n",
+    "id": "76fa2ba0-2de8-41ba-89dd-2cf568bdfd1c",
+    "title": "CORS policy issue while trying to host a static Angular site on AWS S3",
+    "views": 0,
+    "votes": 0
+  }
+]
